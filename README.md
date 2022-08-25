@@ -1,6 +1,6 @@
-# sisipeng.github.io
+# Sisi Peng, MPH MS
 
 
 <p align="center">
-// About Me
+**About Me**
 </p>

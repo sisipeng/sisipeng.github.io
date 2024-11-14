@@ -1,9 +1,11 @@
-# Site settings
-title: Hi, I'm Sisi!
-author:
-  name: Sisi
-  email: s.peng@ucla.edu
-description: To share information and updates
-
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: yaoyao-liu/minimal-light
+
+# Basic Information 
+title: Sisi Peng
+position: Ph.D. Candidate
+affiliation: UCLA
+email: s.peng@ucla.edu
+
+# Links
+linkedin: https://www.linkedin.com/in/sisipeng

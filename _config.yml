@@ -1,0 +1,9 @@
+# Site settings
+title: Sisi's Website
+author:
+  name: Sisi
+  email: s.peng@ucla.edu
+description: To share information and updates
+
+# Build settings
+remote_theme: pages-themes/minimal@v0.2.0

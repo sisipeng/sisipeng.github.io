@@ -5,7 +5,7 @@ Bio:
 </b></p>
 
 <p align="center">
-I am a 3rd year PhD student at the UCLA Department of Communication.
+I am a 5th year PhD student at the UCLA Department of Communication.
 </p>
 
 <p align="center">

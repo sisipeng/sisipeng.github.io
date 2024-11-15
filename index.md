@@ -3,4 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-Nice to meet you! I am a 5th year Ph.D. Candidate at UCLA.
+Hi! I am a 5th year Ph.D. Candidate at the UCLA Department of Communication.
+
+## Research Interests
+- Health Communication
+- Sexual and Reproductive Health
+- Women's Health
+- Health Equity

@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi! I am a 5th year Ph.D. Candidate at the UCLA Department of Communication.
+Hello! I am a 5th year Ph.D. Candidate at the UCLA Department of Communication.
 
 ## Research Interests
 - Health Communication

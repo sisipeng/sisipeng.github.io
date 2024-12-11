@@ -13,10 +13,13 @@ Hello! I am a 5th year Ph.D. Candidate at the UCLA Department of Communication.
 - Health Equity
 
 ## Publications
-- Peng, S., Yang, Y., & Haselton, M. G. (2023). Menstrual symptoms: Insights from 	mobile menstrual tracking applications for English and Chinese teenagers. 	Adolescents, 3(3), 394-403. <https://doi.org/10.3390/adolescents3030027>
+- **Peng, S.**, Yang, Y., & Haselton, M. G. (2023). Menstrual symptoms: Insights from 	mobile menstrual tracking applications for English and Chinese teenagers. 	*Adolescents,* 3(3), 394-403. <https://doi.org/10.3390/adolescents3030027>
+- Fu, K.+, & **Peng, S.** (2024). Disease: Protective effect of breastfeeding. In T.K. Shackelford (Ed.), *Encyclopedia of Sexual Psychology and Behavior.* Springer, Cham. <https://doi.org/10.1007/978-3-031-08956-5_785-1> +*mentored student author*
+- Mugol, N.+, & **Peng, S.** (2024). Personality/Individual differences: Female orgasm. In T.K. Shackelford (Ed.), *Encyclopedia of Sexual Psychology and Behavior.* Springer, Cham. <https://doi.org/10.1007/978-3-031-08956-5_785-1> +*mentored student author*
 
 ### Under Review
-- XYZ
+- **Peng, S.**, Lesko, L., Pillsworth, E.G., Hill, S.E., Natterson-Horowitz, B., & Haselton, 	M.G. (In Revision). Hormone cycles and women’s sexuality: State of knowledge and 	implications for women’s well-being. *Annual Review of Psychology.*
+
 
 ### Working Papers
 - XYZ

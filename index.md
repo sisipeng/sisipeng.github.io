@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hello! I am a 5th year PhD Candidate at the UCLA Department of Communication.
+In my research, I examine communication, perception, and experience of women's health. I use qualitative and quantitative methods, including interviews, surveys, experiments, and natural langugage processing. 
 
 ## Research Interests
 - Women's Health

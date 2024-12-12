@@ -22,7 +22,7 @@ Hello! I am a 5th year PhD Candidate at the UCLA Department of Communication.
 
 
 ### Working Papers
-- **Peng, S.,** Bryant, G.A., Pillsworth E.G., & Haselton, M.G. (In Preparation). You had me at hello: Correlates of thin slice judgments of women’s vocal attractiveness.
+- **Peng, S.,** Pillsworth E.G., Haselton, M.G., & Bryant, G.A. (In Preparation). You had me at hello: Vocal attractiveness across the ovulatory cycle.
 - **Peng, S.,** Mugol, N.+, & Haselton, M.G. (In Preparation). Documenting the taboo: Menstrual attitudes in the U.S. +mentored student author
 
 

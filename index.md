@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-In my research, I examine communication, perception, and experience of women's health. I use qualitative and quantitative methods, including interviews, surveys, experiments, and natural langugage processing. 
+In my research, I examine communication, perception, and experience of women's health. I use qualitative and quantitative methods, including interviews, surveys, experiments, and natural language processing.
 
 ## Research Interests
 - Women's Health

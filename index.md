@@ -23,6 +23,6 @@ In my research, I examine communication, perception, and experience of women's h
 
 ### Working Papers
 - **Peng, S.,** Pillsworth E.G., Haselton, M.G., & Bryant, G.A. (In Preparation). Vocal attractiveness across the ovulatory cycle.
-- **Peng, S.,** Mugol, N.+, & Haselton, M.G. (In Preparation). Documenting period taboo and joy: Menstrual attitudes in the U.S. +mentored student author
+- **Peng, S.,** Mugol, N.+, & Haselton, M.G. (In Preparation). Documenting period stigma and positivity: Menstrual attitudes in the U.S. +mentored student author
 
 

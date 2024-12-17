@@ -18,7 +18,7 @@ In my research, I examine communication, perception, and experience of women's h
 - Mugol, N.+, & **Peng, S.** (2024). Personality/Individual differences: Female orgasm. In T.K. Shackelford (Ed.), *Encyclopedia of Sexual Psychology and Behavior.* Springer, Cham. <https://doi.org/10.1007/978-3-031-08956-5_1801-1> +mentored student author
 
 ### Under Review
-- **Peng, S.,** Lesko, L., Pillsworth, E.G., Hill, S.E., Natterson-Horowitz, B., & Haselton, 	M.G. (In Revision). Hormone cycles and women’s sexuality: State of knowledge and 	implications for women’s well-being. *Annual Review of Psychology.*
+- **Peng, S.,** Lesko, L., Pillsworth, E.G., Hill, S.E., Natterson-Horowitz, B., & Haselton, 	M.G. (In Revision). Hormone cycles and women’s sexuality: State of knowledge and implications for women’s well-being. *Annual Review of Psychology.*
 
 
 ### Working Papers

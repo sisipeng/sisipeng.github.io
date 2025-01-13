@@ -19,6 +19,7 @@ In my research, I examine communication, perception, and experience of women's h
 
 ### Under Review
 - **Peng, S.,** Lesko, L., Pillsworth, E.G., Hill, S.E., Natterson-Horowitz, B., & Haselton, 	M.G. (In Revision). Hormone cycles and women’s sexuality: State of knowledge and implications for women’s well-being. *Annual Review of Psychology.*
+- Henrich, N., **Peng, S.,** , Brinson, A., Jahnke, H. (Under Review). Virtual doulas in practice: A mixed-methods study of their role and impact.
 
 
 ### Working Papers

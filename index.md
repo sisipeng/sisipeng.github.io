@@ -3,13 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-In my research, I examine communication, perception, and experience of women's health. I use qualitative and quantitative methods, including interviews, surveys, experiments, and natural language processing.
+My research focuses on gender, health, and technology. In particular, I have been examining communication, perception, and experience of reproductive health. I use qualitative and quantitative methods, including interviews, surveys, experiments, and natural language processing.
 
 ## Research Interests
-- Women's Health
-- Intersectionality
+- Gender & Technology
+- Reproductive Health & Well-being
 - Health Communication
-- Sexual and Reproductive Health
+- Intersectionality
 - Health Equity
 
 ## Publications
@@ -25,5 +25,6 @@ In my research, I examine communication, perception, and experience of women's h
 ### Working Papers
 - **Peng, S.,** Pillsworth E.G., Haselton, M.G., & Bryant, G.A. (In Preparation). Vocal attractiveness across the ovulatory cycle.
 - **Peng, S.,** Mugol, N.+, & Haselton, M.G. (In Preparation). Documenting period stigma and positivity: Menstrual attitudes in the U.S. +mentored student author
+- **Peng, S.,** Blake, K.R., & Haselton, M.G. (In preparation). Why is menstruation stigmatized? Leveraging big data to find out
 
 

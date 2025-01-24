@@ -7,7 +7,7 @@ My research focuses on gender, health, and technology. In particular, I have bee
 
 ## Research Interests
 - Gender & Technology
-- Reproductive Health & Well-Being
+- Sexual & Reproductive Health
 - Health Communication
 - Intersectionality
 - Health Equity

@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-My research focuses on gender, health, and technology. In particular, I have been examining communication, perception, and experience of reproductive health. I use qualitative, quantitative, and mixed methods, including content analysis, interviews, surveys, experiments, and natural language processing.
+My research focuses on gender, health, and technology. In particular, I have been examining communication, perception, and experience of reproductive health. I use qualitative, quantitative, and mixed methods, including interviews, surveys, experiments, and content analysis.
 
 ## Research Interests
 - Gender & Technology

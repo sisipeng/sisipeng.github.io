@@ -25,6 +25,6 @@ My research focuses on women's health and technology. In particular, I have been
 ### Working Papers
 - **Peng, S.,** Pillsworth E.G., Haselton, M.G., & Bryant, G.A. (In Preparation). Vocal attractiveness across the ovulatory cycle.
 - **Peng, S.,** Mugol, N.+, & Haselton, M.G. (In Preparation). Documenting period stigma and positivity: Menstrual attitudes in the U.S. +mentored student author
-- **Peng, S.,** Blake, K.R., & Haselton, M.G. (In preparation). Why is menstruation stigmatized? Leveraging big data to find out.
+- **Peng, S.,** Blake, K.R., & Haselton, M.G. (In Preparation). Why is menstruation stigmatized? Leveraging big data to find out.
 
 

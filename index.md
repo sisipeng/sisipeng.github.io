@@ -6,8 +6,8 @@ layout: homepage
 My research focuses on women's health and technology. In particular, I have been examining communication, perception, and experience of reproductive health. I use qualitative, quantitative, and mixed methods, including interviews, surveys, experiments, and content analysis.
 
 ## Research Interests
-- Female Technology (FemTech)
 - Reproductive Health & Well-Being
+- Female Technology (FemTech)
 - Health Communication
 - Intersectionality
 - Health Equity

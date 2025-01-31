@@ -6,11 +6,11 @@ layout: homepage
 My research focuses on women's health and technology. In particular, I have been examining communication, perception, and experience of reproductive health. I use qualitative, quantitative, and mixed methods, including interviews, surveys, experiments, and content analysis.
 
 ## Research Interests
-- Reproductive Health & Well-Being
+- Women's Health & Well-Being
 - Female Technology (FemTech)
 - Health Communication
 - Intersectionality
-- Health Equity
+- Reproductive Justice
 
 ## Publications
 - **Peng, S.,** Yang, Y., & Haselton, M. G. (2023). Menstrual symptoms: Insights from 	mobile menstrual tracking applications for English and Chinese teenagers. 	*Adolescents,* 3(3), 394-403. <https://doi.org/10.3390/adolescents3030027>

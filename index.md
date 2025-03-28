@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-My research focuses on women's reproductive health and technology. In particular, I have been examining communication of women's health issues and digital technology for women's health and well-being. I use quantitative, qualitative, and mixed-methods, including surveys, experiments, interviews, and content analysis. In my free time, I enjoy taking walks with my dog and baking sweet treats.
+My research focuses on women's reproductive health and technology. In particular, I have been examining communication of women's health issues and digital technology for women's health and well-being. I use quantitative, qualitative, and mixed-methods, including surveys, experiments, interviews, and content analysis. In my free time, I enjoy taking walks with my dog and baking sweets.
 
 ## Research Interests
 - Health Communication

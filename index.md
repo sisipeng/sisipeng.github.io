@@ -8,7 +8,7 @@ My research focuses on women's reproductive health and technology. In particular
 ## Research Interests
 - Women's Health 
 - Sexual & Reproductive Health
-- Maternal & Child Health
+- Maternal Health
 - Health Communication
 - Health Equity
 - Health Technology

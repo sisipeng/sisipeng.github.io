@@ -18,7 +18,7 @@ My research focuses on women's reproductive health and technology. In particular
 - Fu, K.+, & **Peng, S.** (2024). Disease: Protective effect of breastfeeding. In T.K. Shackelford (Ed.), *Encyclopedia of Sexual Psychology and Behavior.* Springer, Cham. <https://doi.org/10.1007/978-3-031-08956-5_785-1> +mentored student author
 
 ### Under Review
-- Henrich, N., **Peng, S.,** Brinson, A., Jahnke, H. (Under Review). Virtual doulas in practice: A mixed-methods study of their role and impact.
+- Henrich, N., **Peng, S.,** Brinson, A., Jahnke, H. (Under Review). Virtual doulas in practice: A mixed-methods study of their role and impact. *BMC Pregnancy and Childbirth.*
 - **Peng, S.,** Lesko, L., Pillsworth, E.G., Hill, S.E., Natterson-Horowitz, B., & Haselton, 	M.G. (In Revision). Hormone cycles and women’s sexuality: State of knowledge and implications for women’s well-being. *Annual Review of Psychology.*
 
 ### Working Papers
